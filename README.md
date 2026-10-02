@@ -117,12 +117,12 @@ I'm continuously expanding my technical skills and exploring modern test automat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamaChandrika&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=RamaChandrika&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaChandrika&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -144,14 +144,17 @@ I'm continuously expanding my technical skills and exploring modern test automat
 
 ## 🌐 Connect With Me
 
-I'm always happy to connect with QA professionals, SDETs, developers, recruiters, and technology enthusiasts.
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/rama-chandrika-akurathi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rama-chandrika-akurathi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/RamaChandrika">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/RamaChandrika/github-portfolio">
+    <img src="https://img.shields.io/badge/QA_Portfolio-Explore-2EAD33?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
